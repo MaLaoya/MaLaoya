@@ -7,6 +7,6 @@
 <br><br>
 
 - :school: I study at [Jensen Yrkeshögskola, Malmö Sweden]
-- :computer: Learning to code with C#, .Net, Blazor and Javascript
+- :computer: Learning to code with C#, .Net, Blazor and Javascript. My plan is to be more involved in the Microsoft Azure enviroment. I will take courses and certificates during the summer. 
 - :office_worker: Internship at Omegapoint doing various projects with NOSQL InfluxDB and Web-application
 <br>
