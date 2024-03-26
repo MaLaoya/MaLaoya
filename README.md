@@ -6,5 +6,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Jensen Yrkeshögskola, Malmö Sweden]
+- :school: I study at [Jensen Yrkeshögskola, Malmö Sweden]
+- :computer: Learning to code with C#, .Net, Blazor and Javascript
+- :office_worker: Internship at Omegapoint doing various projects with NOSQL InfluxDB and Web-application
 <br>
